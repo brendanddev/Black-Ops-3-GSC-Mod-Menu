@@ -15,4 +15,12 @@ Welcome to my first mod menu using GSC, this mod is for Black Ops 3. This mod al
 9. Refill Ammo
 
 ### How to install
+1. Download files
+2. Unzip Folder
+3. Create a mods folder in your Black Ops 3 directory
+4. Drag and drop the contents of the folder downloaded into your mods folder
+
+### Bugs
+No points given when pressing buttons
+Skyes weapon ports only works in this mod with Ballista and M27, rest of guns do not work
 
