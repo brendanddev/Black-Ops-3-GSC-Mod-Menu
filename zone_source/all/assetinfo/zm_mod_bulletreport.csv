@@ -1,0 +1,13 @@
+xmodel,avgArea (min 50.0),triCount (max 0),dimX,dimY,dimZ,volume,refs
+p7_fxp_debris_wood_splinter_03,0.39,52,1.00,6.09,1.13,6.85,1
+p7_fxp_debris_wood_splinter_02,0.15,48,0.78,3.73,0.88,2.55,1
+p7_fxp_debris_wood_splinter_01,0.21,16,0.95,1.67,0.29,0.45,1
+p7_fxp_debris_rock_01,0.75,16,2.59,1.59,1.72,7.13,1
+p7_fxp_debris_rock_02,1.01,16,3.34,1.90,2.12,13.47,1
+p7_fxp_debris_rock_03,2.50,16,4.58,4.01,1.96,36.05,1
+p7_fxp_debris_car_glass_shatter_01,0.06,16,0.63,0.74,0.41,0.19,1
+p7_fxp_debris_car_glass_shatter_02,0.07,16,0.60,0.79,0.42,0.20,1
+p7_gib_chunk_meat_01,4.31,16,2.61,7.35,8.75,167.67,1
+p7_gib_chunk_meat_02,3.93,16,4.00,7.68,5.48,168.48,1
+p7_gib_chunk_meat_03,4.97,15,3.14,6.78,7.21,153.74,1
+p7_fxp_debris_car_glass_shatter_03,0.07,12,0.59,0.61,0.26,0.09,1

@@ -1,0 +1,70 @@
+return 17000000
+^1Effect 'fx/zombie/fx_muz_md_rifle_1p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_md_rifle_1p_ug_zmb
+    weapon:t6_ak47_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_md_rifle_3p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_md_rifle_3p_ug_zmb
+    weapon:t6_ak47_up
+      csv:zone_source/zm_mod.zone
+^1ERROR: Material mtl_origins_camo_alt was not found in gdtDB
+  material:mc/mtl_origins_camo_alt
+    weaponcamo:t6_camo_ak47_table
+      weapon:t6_ak47_up
+        csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_sm_pistol_1p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_sm_pistol_1p_ug_zmb
+    weapon:t6_b23r_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_sm_pistol_3p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_sm_pistol_3p_ug_zmb
+    weapon:t6_b23r_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_lg_shotgun_1p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_lg_shotgun_1p_ug_zmb
+    weapon:t6_blundergat_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_lg_shotgun_3p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_lg_shotgun_3p_ug_zmb
+    weapon:t6_blundergat_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_lg_mg_1p_ug_zm.efx' not found
+  fx:zombie/fx_muz_lg_mg_1p_ug_zm
+    weapon:t6_death_machine_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_lg_mg_3p_ug_zm.efx' not found
+  fx:zombie/fx_muz_lg_mg_3p_ug_zm
+    weapon:t6_death_machine_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/explosions/fx_exp_rocket_default_sm.efx' not found
+  fx:explosions/fx_exp_rocket_default_sm
+    weapon:t6_fal_osw_launcher_zm
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_rocket_xm_1p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_rocket_xm_1p_ug_zmb
+    weapon:t6_stinger_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/zombie/fx_muz_rocket_xm_3p_ug_zmb.efx' not found
+  fx:zombie/fx_muz_rocket_xm_3p_ug_zmb
+    weapon:t6_stinger_up
+      csv:zone_source/zm_mod.zone
+^1The model (vm_t6_m27_grip) uses material (mtl_t6_wpn_ar_hk416_grip) but there is no techset for surface 1
+  xmodel:vm_t6_m27_grip
+    weapon:t6_m27_up
+      csv:zone_source/zm_mod.zone
+^1The model (vm_t6_m27_grip) uses material (mtl_t6_wpn_ar_hk416_grip_camo2) but there is no techset for surface 2
+  xmodel:vm_t6_m27_grip
+    weapon:t6_m27_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/weapon/fx_trail_crossbow.efx' not found
+  fx:weapon/fx_trail_crossbow
+    weapon:t6_m1911_rdw_up_zm
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/dlc3/stalingrad/fx_raygun_r_1p_red_zmb.efx' not found
+  fx:dlc3/stalingrad/fx_raygun_r_1p_red_zmb
+    weapon:t6_mauser_c96_up
+      csv:zone_source/zm_mod.zone
+^1Effect 'fx/dlc3/stalingrad/fx_raygun_r_3p_red_zmb.efx' not found
+  fx:dlc3/stalingrad/fx_raygun_r_3p_red_zmb
+    weapon:t6_mauser_c96_up
+      csv:zone_source/zm_mod.zone

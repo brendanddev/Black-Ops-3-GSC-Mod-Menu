@@ -1,0 +1,282 @@
+version,3421953,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+ignore_missing_shipped,core_common
+ignore_missing_shipped,zm_common
+ignore_missing_shipped,zm_common
+ignore_missing_shipped,zm_patch
+ignore_missing_shipped,zm_patch
+techset,mc/vegetation#e6142445
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_vs_EV2D6ILN3O4OHKYCMUJZWLOY6D,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_buildshadowmap.hlsl_vs_main_RME3HXMZHLVKMCVZHVAEM2CL2M,1719446193,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_ps_W4LAXAO2PVLD5WVHM7CVMZ4O44,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_buildshadowmap.hlsl_ps_main_RME3HXMZHLVKMCVZHVAEM2CL2M,1719446161,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_vs_TBHLS3FNLIT6VSJPJOXSCT5F5L,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_ps_XTA43ROIVB4TBDHQWCI2AOO5OE,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_vs_LY2INIM5PHDWQ2QCV2IDPJOZOZ,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_ps_XBPIV5FNALGZVMLIDSDRNJ2A6L,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_vs_CI5VRFQHZV47INR2RRQF4MVQVP,1719446156,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_buildshadowmap.hlsl_vs_main_PDUGSGSXPGC5GOUKNDPFDDR3ZL,1719446191,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_ps_5OI6C4DIHEUTGQG6FKIQHMGMOH,1719446156,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_buildshadowmap.hlsl_ps_main_PDUGSGSXPGC5GOUKNDPFDDR3ZL,1719446162,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_vs_6XEHSPLPUUV7ADCKLSKFYPBWRC,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_buildshadowmap.hlsl_ps_YBUWJH6GP75P3YJ7EKDDHXXHX4,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_HTT75RASXNI73OXTC2DMMPNH54,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_vs_main_JVZ6ZH4GDKBXRXS74GPWMGPHPW,1719446160,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_HFZEC6YVLIQ63PNU2YK5PIELEX,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_ps_main_JVZ6ZH4GDKBXRXS74GPWMGPHPW,1719446061,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_SPJSQPNUTLPH47V5W35NU4AGQU,1719446045,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_vs_main_P6KHSNASKRBPF7OGWEI6VDSM6K,1719446160,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_YEUSIIAATHXPPSNLSVZQQRUMU3,1719446045,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_ps_main_P6KHSNASKRBPF7OGWEI6VDSM6K,1719446157,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_OUVCLUZGX3MW2RISFW7JRQD2TZ,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_4XWZF7NVW65L7NKPX7A565RC5L,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_JZMZ6T3AUBAFO3SCI3BNZNEAEK,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_vs_main_ZYJKM2AX3QMDLKFGOZ4SCG4M4W,1719446160,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_2KI2CPVYBK4K3NAH7DIZNTBAJE,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_ps_main_ZYJKM2AX3QMDLKFGOZ4SCG4M4W,1719446062,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_JNTGNZIAVZ7FQ7A4NNMTZN4B4J,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_SW7FFZLWJQDO5MK5TBQBCWI7IG,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_CL2KTN33XNHYT645HPRQBARC53,1719446182,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_vs_main_QTFQLEJQKJKQOEFCM3YZZKI5IU,1719446061,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_45IXOYX6MQR7ZAJZOUH25QBJVF,1719446183,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_ps_main_QTFQLEJQKJKQOEFCM3YZZKI5IU,1719446051,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_QIQW2QV2CTL7S4W3YVT24PNK5V,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_vs_main_QYRZCHUJXZK6ANG5OFMH6R7C7R,1719446061,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_LJXC5HX64TPNEABTFRPL3GUE4O,1719446152,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_ps_main_QYRZCHUJXZK6ANG5OFMH6R7C7R,1719446190,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_5JKBTKJ7XOVA4YRQF6CBFGEKEN,1719446183,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_QQCQYEGEWHKPCBKZDEK4F3FDVS,1719446183,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_O42RUVRR7VSDTWNBYXLMMTHXH5,1719446183,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_vs_main_GGNVRLBNPEGYVS3PQQH2IFGS6C,1719446061,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_JWLAYS4DPAXCWKQDVFA72M7S7O,1719446183,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\gbuffer_vegetation.hlsl_ps_main_GGNVRLBNPEGYVS3PQQH2IFGS6C,1719446050,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_vs_THUYHELCZTDVKOQLOAO2OZKC2N,1719446182,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\gbuffer_vegetation.hlsl_ps_J5QURFYDYZ4JAW2WJHLI5L272Q,1719446183,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_vs_IGZHUUCOSK4O7CV5CDA7MIDTDP,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_unlit_simple.hlsl_vs_main_YRBHLCGSCELWUN5PBNOPVJI5YE,1719446194,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_ps_Z5TNBIO6DIMXSXO6CHIBJ6KYOL,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_unlit_simple.hlsl_ps_main_YRBHLCGSCELWUN5PBNOPVJI5YE,1719446052,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_vs_SFE5MUJI7KMVC3MFTLIIADYG4A,1719446186,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_ps_NJNUICXKWME4M6VICADC2YIEYH,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_vs_D2USXVAFNO5AHCWOXBKVRBWWWK,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_ps_G2KYQNK5TIWWLUNRMUW4TXLE7K,1719446186,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_vs_YXWOYPA2FO3RQBOZ7RAPK6HK7N,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_unlit_simple.hlsl_vs_main_UA4ZDJV4W6YZTJMAC27IFYJ35C,1719446194,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_ps_7IY6XHQJOZEZXUJRSXX43GN65J,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\techsetdef_unlit_simple.hlsl_ps_main_UA4ZDJV4W6YZTJMAC27IFYJ35C,1719446052,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_vs_GVOZ5LBHMZMCVQK7VWV5MHWGW6,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\techsetdef_unlit_simple.hlsl_ps_S2HTG3L3LQN73AUPNJ4WYH6X6X,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_vs_FZK57FWT3PCGH5TLOUL6RWEBUV,1719446158,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\wireframe.hlsl_vs_main_EORMHYV2755FIY3RRLTNPMGQWN,1719446162,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_ps_D4YXLCVO2C4ROBC57AU5DQJ4N4,1719446159,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\wireframe.hlsl_ps_main_EORMHYV2755FIY3RRLTNPMGQWN,1719446052,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_vs_ZHA3JHR3GLIU7Z5KNJJZHMSN6O,1719446157,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_ps_5J74EPMMXL6URZG4YUEJ5FZD5R,1719446157,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_vs_4S6QTALB6FHGVZRJ4ARP54QH4C,1719446158,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_ps_JLRWOFRS45CEVFEV7NRT5AMDMH,1719446157,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_vs_G3344R3PUEDCTNMCTDE4DBKQKU,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\wireframe.hlsl_vs_main_CDE7AOHOA4AUEO4NZUHQLX6Z6S,1719446161,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_ps_JVZUXJKKRBPPCRAUS5GL3DJ255,1719446187,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\wireframe.hlsl_ps_main_CDE7AOHOA4AUEO4NZUHQLX6Z6S,1719446051,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_vs_WP6SSHQEUPUAZLME6I2F55AP4H,1719446157,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\wireframe.hlsl_ps_E6S4UJMK6AZVIPOOL774IDMI4Q,1719446159,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_vs_YKYO64LETTYPQZOFX44RMFDTDU,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\overdraw.hlsl_vs_main_MN7OS53JSKGQMZVMCPSQT2RJZF,1719446052,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_ps_B5LJCFPRF36DRPBB7Z6L62UNUW,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\overdraw.hlsl_ps_main_MN7OS53JSKGQMZVMCPSQT2RJZF,1719446193,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_vs_B2EKKM7BGN2NEGWDWUHLN6P47W,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_ps_FBLDGLEMO5TB47R6QDKEWLYL4D,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_vs_FDVYGTDNP6HINRRFYNOESC3I7D,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_ps_6I6757ZSRUY2CIXBUKH2MSLD7C,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_vs_7H6OM3B3KINRRCJDASAANRON6B,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\overdraw.hlsl_vs_main_KWVDZADIQIATJBISNCCZ5FO3OG,1719446051,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_ps_FTQAAQEQQHVYKEJ2J6QEQ7KE2H,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\overdraw.hlsl_ps_main_KWVDZADIQIATJBISNCCZ5FO3OG,1719446190,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_vs_G3DTULXRUERB3BYG2HFLRHUR4B,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\overdraw.hlsl_ps_HBYFV4ZGCYCTEUM6MZLHWNFHFI,1719446058,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_vs_LISEXL3XMFWAI5MKMS63ELFWNL,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\matrix_mode.hlsl_vs_main_E2OBPNZVDVOINGEAUAVMMJABMT,1719446161,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_ps_UXKMPGGT63QPUDCRQKRMQMVO5C,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\matrix_mode.hlsl_ps_main_E2OBPNZVDVOINGEAUAVMMJABMT,1719446062,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_gs_HBC2VCYU6CHBKB5HSNBKUNHRPH,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\matrix_mode.hlsl_gs_main_E2OBPNZVDVOINGEAUAVMMJABMT,1719446159,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_vs_MHMG2SACL74KMZVSB5UC54QLQI,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_ps_NZHVG6MPTXULBWSV4HGOAZOJ6B,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_gs_UZCIU257LJ7AJISAI67PLZX472,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_vs_HMGDWLZ6XUNCUY4QFPPRR7BJZK,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_ps_JJFPCB3WHIO3EYW4OUCZJZADEU,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_gs_IA7KEDVA7DSZNRNIYGESAHD67P,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_vs_DYAIN5GCYCCI3Y33ARDTF7LALJ,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\matrix_mode.hlsl_vs_main_6E2TPPGRWT6RD6CCIWSDJ6YMYU,1719446161,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_ps_2CI7MY6D4KZDBVR4IM5UY4ZTZD,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\matrix_mode.hlsl_ps_main_6E2TPPGRWT6RD6CCIWSDJ6YMYU,1719446062,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_gs_WBBVP5TAOHFPHJTGVYQQV52O2Y,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\matrix_mode.hlsl_gs_main_6E2TPPGRWT6RD6CCIWSDJ6YMYU,1719446162,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_vs_VSBALDCOMT6FPZJ3NGEIQXXF7R,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_ps_IDECMH52NQLGB64SLLH2YLXZ7P,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\matrix_mode.hlsl_gs_M3OH5MHW4C7ILUG5EEQ77BQ2YB,1719446048,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_vs_WPREACTTBOJWJEOHQETXM5XU7B,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\specialty_thermal_solid.hlsl_vs_main_37FFASJFFOFJECZJHCV6C6OWOT,1719446194,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_ps_V3YSB5KKNSTTKPSQHMBWZRFJF4,1719446156,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\specialty_thermal_solid.hlsl_ps_main_HFHAPMAXC6E67MV5ZSZTA36L64,1719446194,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_vs_YGPBN4WCK3ATPULP3OZVOG2R6I,1719446186,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\specialty_thermal_solid.hlsl_vs_main_2Q7UFNTDYTB6ZZTMJVZFJN4R4N,1719446194,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_ps_HU47VPDTGCWEC4CTZ4EJNV4J4U,1719446156,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\specialty_thermal_solid.hlsl_ps_main_CK7CD4EWR2OPHBUD53DGO3C4GQ,1719446162,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_vs_VCBZKJYKSGR2TJOJ5CY46CXQXB,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_ps_5A7MFFQEY7HIF2ZF76WZLFX5XE,1719446156,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_vs_ESWCKSHHJNS5X7W2TXYQ2RIVIB,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\specialty_thermal_solid.hlsl_vs_main_P5VCBIJJKTUHUJZX56HVPJ2X6K,1719446194,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_ps_NRBWIXQE7IAVHPS5ZGQ5MVLJPI,1719446186,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\shaders\pc\v7\specialty_thermal_solid.hlsl_ps_main_2USKUS37ZVYTVQORAUUSPTHSXJ,1719446194,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_vs_OQWBQMXNRSDG53S6W3XOH2VNVN,1719446049,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\preshader\pc\v7\specialty_thermal_solid.hlsl_ps_ICMHIA5GDM66IXKCBXKS4VXLXW,1719446157,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\geometry\vegetation.techsetdef,1719446268,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\lit_base_basic.techsetdef,1719446268,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\lit_base_stub.techsetdef,1719446269,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\lit_base_shaders.techsetdef,1719446106,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\state.techsetdef,1719446120,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\renderFlags.techsetdef,1719446263,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\usage.techsetdef,1719446120,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\debug_shared.inc.techsetdef,1719446106,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\color_base.techsetdef,1719446263,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\normal_base.techsetdef,1719446106,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\shadowmap_technique_base.techsetdef,1719446106,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\techsetdefs_stable\include\thermal_base.techsetdef,1719446106,
+image,i_mtl_p7_gib_chunk_set_c
+	gdt,image,i_mtl_p7_gib_chunk_set_c,0B-58-DE-51-A1-43-2E-A2-BE-64-E5-47-2C-F9-CE-9B
+	gdt,light,i_mtl_p7_gib_chunk_set_c,
+	gdt,emblem,i_mtl_p7_gib_chunk_set_c,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\light.awi,1719444014,5da64c3c,92db2ade,6c36bab1,4d3fe1b9
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\emblem.awi,1719444014,90d8528b,f191a8f1,d026de37,33338f38
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\model_export\t7_props\p7_gib_chunk_set\mtl_p7_gib_chunk_set_c.tif,1719443977,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_mtl_p7_gib_chunk_set_c_5JCCAOEZ57R7S6Y4A3ZLRFEDEG.iwi,1719975218,
+image,i_mtl_p7_gib_chunk_set_n
+	gdt,image,i_mtl_p7_gib_chunk_set_n,87-23-DD-21-7C-F5-21-2D-11-FE-10-3F-FB-9C-32-D3
+	gdt,light,i_mtl_p7_gib_chunk_set_n,
+	gdt,emblem,i_mtl_p7_gib_chunk_set_n,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\model_export\t7_props\p7_gib_chunk_set\mtl_p7_gib_chunk_set_n.tif,1719443977,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\i_mtl_p7_gib_chunk_set_n_WJVRCIDN254MEPHULWMLYD3A3L.iwi,1719975218,
+image,$gray_32_one_channel
+	gdt,image,$gray_32_one_channel,A5-03-97-FA-0A-B5-AD-95-E9-7B-CC-97-DE-23-8A-B9
+	gdt,light,$gray_32_one_channel,
+	gdt,emblem,$gray_32_one_channel,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\t7_default\default_gray_32.tif,1719446238,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\$gray_32_one_channel_UGTYAVJRQFRIUTKDSRXCCRFMNT.iwi,1719975177,
+image,$thickness_base
+	gdt,image,$thickness_base,3F-80-39-C7-D4-77-0E-39-D2-F3-9C-61-3B-D7-10-AE
+	gdt,light,$thickness_base,
+	gdt,emblem,$thickness_base,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\t7_default\default_specular.tif,1719446238,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\$thickness_base_UUDFA5OC4Z76WD25QYOLJ4P3PM.iwi,1719975218,
+image,$white_reveal
+	gdt,image,$white_reveal,9E-76-98-1C-0E-A3-11-C4-CC-C3-C5-CE-A5-64-94-91
+	gdt,light,$white_reveal,
+	gdt,emblem,$white_reveal,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\texture_assets\t7_default\default_white_255.tif,1719446485,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\$white_reveal_A5UQD7C4GUJUY2FBH3YNB4NX5C.iwi,1719975180,
+material,mc/mtl_gib_chunk_set
+	asset,techset,mc/vegetation#e6142445
+	asset,image,i_mtl_p7_gib_chunk_set_c
+	asset,image,i_mtl_p7_gib_chunk_set_n
+	asset,image,$gray_32_one_channel
+	asset,image,$thickness_base
+	asset,image,$white_reveal
+	gdt,material,mtl_gib_chunk_set,9C-33-5D-6E-CE-DE-F0-57-CF-54-2B-F0-71-2B-AC-0F
+	gdt,image,i_mtl_p7_gib_chunk_set_c,0B-58-DE-51-A1-43-2E-A2-BE-64-E5-47-2C-F9-CE-9B
+	gdt,image,i_mtl_p7_gib_chunk_set_n,87-23-DD-21-7C-F5-21-2D-11-FE-10-3F-FB-9C-32-D3
+	gdt,image,$gray_32_one_channel,A5-03-97-FA-0A-B5-AD-95-E9-7B-CC-97-DE-23-8A-B9
+	gdt,image,$thickness_base,3F-80-39-C7-D4-77-0E-39-D2-F3-9C-61-3B-D7-10-AE
+	gdt,image,$white_reveal,9E-76-98-1C-0E-A3-11-C4-CC-C3-C5-CE-A5-64-94-91
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\material.awi,1719443999,ae7c4594,555e9e83,96220972,356cb052
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\image.awi,1719444001,32295aab,34ad1118,b8e6c9c4,45d460d8
+physpreset,gib
+	gdt,physpreset,gib,A3-22-AF-EC-02-99-43-24-32-4A-31-10-85-50-05-75
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\physpreset.awi,1719443989,73b649ca,ef34b734,476caf3b,5b495567
+xmodelmesh,p7_gib_chunk_meat_01_lod09ae13a73
+xmodelmesh,p7_gib_chunk_meat_01_lod0b1cdd03f
+xmodelmesh,p7_gib_chunk_meat_01_lod0bf6605c
+xmodelmesh,p7_gib_chunk_meat_01_lod01f019145
+xmodelmesh,p7_gib_chunk_meat_01_lod022c6bf91
+xmodel,p7_gib_chunk_meat_01
+	asset,material,mc/mtl_gib_chunk_set
+	asset,physpreset,gib
+	asset,xmodelmesh,p7_gib_chunk_meat_01_lod09ae13a73
+	asset,xmodelmesh,p7_gib_chunk_meat_01_lod0b1cdd03f
+	asset,xmodelmesh,p7_gib_chunk_meat_01_lod0bf6605c
+	asset,xmodelmesh,p7_gib_chunk_meat_01_lod01f019145
+	asset,xmodelmesh,p7_gib_chunk_meat_01_lod022c6bf91
+	gdt,xmodel,p7_gib_chunk_meat_01,1E-3E-7B-79-93-69-3E-2C-8C-58-6F-43-6E-DF-B5-54
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\deffiles\xmodel.awi,1719444014,bdac0aa5,bdc8608c,ce552f13,e3ab890b
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\model_export\t7_props\p7_gib_chunk_set\p7_gib_chunk_meat_01_lod0.XMODEL_BIN,1719445330,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_01_lod0_f0_s1.000000_geo_rigid_DBYTQAMCAXP2GHUS42EXRUQO4R,1719975217,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_01_lod0_f16_s1.000000_geo_rigid_FFA2JGHIDD3GSZTQ225J2ITA36,1719975217,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_01_lod0_f16_s1.000000_collision_rigid_TV7P3DPASXPAHOQNAJOTXEF7V7,1719975217,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_01_lod0_f75_s1.000000_geo_rigid_ANHFP3XYBD5VLX2YYGNNPVMK4R,1719975217,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_01_lod0_f22_s1.000000_geo_rigid_O66QMQK4SSJ5OV7M3KTCJH6O6A,1719975217,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_01_lod0_f45_s1.000000_geo_rigid_PZAPOB6WCCDO2ZHCALCFONXMXP,1719975217,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmodelmipvol\v1\p7_gib_chunk_meat_01_9d1d9a281e33bb5f,1719975218,
+xmodelmesh,p7_gib_chunk_meat_02_lod059149772
+xmodelmesh,p7_gib_chunk_meat_02_lod0f796fdbb
+xmodelmesh,p7_gib_chunk_meat_02_lod0963b1e2a
+xmodelmesh,p7_gib_chunk_meat_02_lod021a20dee
+xmodel,p7_gib_chunk_meat_02
+	asset,material,mc/mtl_gib_chunk_set
+	asset,physpreset,gib
+	asset,xmodelmesh,p7_gib_chunk_meat_02_lod059149772
+	asset,xmodelmesh,p7_gib_chunk_meat_02_lod0f796fdbb
+	asset,xmodelmesh,p7_gib_chunk_meat_02_lod0963b1e2a
+	asset,xmodelmesh,p7_gib_chunk_meat_02_lod021a20dee
+	gdt,xmodel,p7_gib_chunk_meat_02,ED-07-8D-E1-74-E2-D9-7F-AF-81-BA-FF-40-22-91-51
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\model_export\t7_props\p7_gib_chunk_set\p7_gib_chunk_meat_02_lod0.XMODEL_BIN,1719445293,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_02_lod0_f0_s1.000000_geo_rigid_DLX4GZ6UOPCSG665MVOSZNWZ6A,1719975218,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_02_lod0_f16_s1.000000_geo_rigid_FPPV77V6N3WOSAZ7KVXMSRVX5P,1719975218,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_02_lod0_f52_s1.000000_geo_rigid_AEDHHVAHTDO3UQHRC25IG7BF5N,1719975218,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_02_lod0_f31_s1.000000_geo_rigid_PKZ7V6CWOE7SKQNKOJ5S362B2R,1719975218,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_02_lod0_f16_s1.000000_collision_rigid_T7QAN25W4PCIHX2CQGEW75DIHO,1719975218,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmodelmipvol\v1\p7_gib_chunk_meat_02_23f6ffc5102e464d,1719975218,
+xmodelmesh,p7_gib_chunk_meat_03_lod0bd6c549b
+xmodelmesh,p7_gib_chunk_meat_03_lod058385d86
+xmodelmesh,p7_gib_chunk_meat_03_lod06e605932
+xmodelmesh,p7_gib_chunk_meat_03_lod01970b835
+xmodelmesh,p7_gib_chunk_meat_03_lod0afc48326
+xmodel,p7_gib_chunk_meat_03
+	asset,material,mc/mtl_gib_chunk_set
+	asset,physpreset,gib
+	asset,xmodelmesh,p7_gib_chunk_meat_03_lod0bd6c549b
+	asset,xmodelmesh,p7_gib_chunk_meat_03_lod058385d86
+	asset,xmodelmesh,p7_gib_chunk_meat_03_lod06e605932
+	asset,xmodelmesh,p7_gib_chunk_meat_03_lod01970b835
+	asset,xmodelmesh,p7_gib_chunk_meat_03_lod0afc48326
+	gdt,xmodel,p7_gib_chunk_meat_03,A8-FA-E8-E7-7E-AB-30-C7-75-E5-9B-2F-3E-E3-41-59
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\model_export\t7_props\p7_gib_chunk_set\p7_gib_chunk_meat_03_lod0.XMODEL_BIN,1719445329,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_03_lod0_f0_s1.000000_geo_rigid_USUI7VH6NISCNV4VSOH525EXMJ,1719975218,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_03_lod0_f16_s1.000000_geo_rigid_SWMBGTMUO4G6ZL3XUO6DRBHZPG,1719975219,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_03_lod0_f16_s1.000000_collision_rigid_EGTUUWE47ISYM4YKO5NZ4NRGRH,1719975219,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_03_lod0_f22_s1.000000_geo_rigid_ZNSLDFBA7NUFFHXLV6QICOKXKY,1719975219,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_03_lod0_f75_s1.000000_geo_rigid_X6L6AO4EM4ANAFS7WSOHE4YT4J,1719975219,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmesh\v6\p7_gib_chunk_meat_03_lod0_f45_s1.000000_geo_rigid_YKMUBUVKP56WRLPFO7BPFEDVDX,1719975219,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\assetconvert\xmodelmipvol\v1\p7_gib_chunk_meat_03_dc149761a7808fd9,1719975219,
+texturecombo,zm_mod
+assetlist,zm_mod
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1719446192,
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\mods\drendos_boiii_gsc_mod\zone_source\loc\zm_mod.zone,1721123846,75d17b8e,f86826ad,3e601466,db3874d8
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_pre_gfx.csv,1719446818,4f38c8d2,54dbe0ad,a26fe6dd,7ce6fe27
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_patch.csv,1719446827,9ed99688,0848420f,a94e8a4f,6a3cab0a
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_gfx.csv,1719446955,4cd6243d,831296e2,f2d7c4d8,2e2c9159
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_post_gfx.csv,1719446818,6421ae92,8670936d,28c8f4d3,3c4bb4af
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_ui.csv,1719446818,ce3b1916,c358e78d,81b61779,aaf68da4
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_common.csv,1719446954,1d30278c,b8778087,b65b8ce5,1d066b44
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\zm_common.csv,1719446818,4764b9bb,fb3a876b,3442808c,89244d35
+	file,C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\zm_patch.csv,1719446953,251e32d9,6d7cd895,06e06a77,cf58ce0a
+errorcount,0
