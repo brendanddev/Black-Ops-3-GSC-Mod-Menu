@@ -1,8 +1,6 @@
 /*
-	@author: @Drendos
-	Start Date: July 25 2024
-	Black Ops 3 Mod Menu
-
+	Brendan Dileo
+	July 25 2024
 	This was my second try at creating a mod menu using GSC. This script allows the player to enter god mode, refill ammo, etc.
 
 	Credits / Help:
@@ -21,6 +19,7 @@
 	@IceGrenade - Tutorials
 	Link: https://www.youtube.com/watch?v=1ahHTW4hhzk&list=PLrBAoFlW-blqmkmXLcHcZULdIhD6h_q9u&index=8
 */
+
 #using scripts\codescripts\struct;
 #using scripts\shared\callbacks_shared;
 #using scripts\shared\system_shared;
