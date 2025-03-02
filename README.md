@@ -21,6 +21,5 @@ Welcome to my first mod menu using GSC, this mod is for Black Ops 3. This mod al
 4. Drag and drop the contents of the folder downloaded into your mods folder
 
 ### Bugs
-No points given when pressing buttons
-Skyes weapon ports only works in this mod with Ballista and M27, rest of guns do not work
-
+1. No points given when pressing keybind (Works some of the time, others not)
+2. Skye's Weapon Ports only works for the Ballista and M27, but not for the rest of the guns.
